@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hello World"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "Shepherd"
+  }
+}
